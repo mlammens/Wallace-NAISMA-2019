@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NAISMA 2019 - How to use species distribution modeling to study the past spread and predict future spread of non-native species 
-tagline: A *Wallace* workshop
+tagline: A <i>Wallace</i> workshop
 description: Simple page for NAISMA 2019 Wallace workshop
 ---
 

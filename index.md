@@ -23,7 +23,7 @@ Distribution modeling is a mature tool for studying invasive species, but until 
 
 ## Background Materials
 
-You do not need to now this information to effectively begin using *Wallace*. However, a little R knowledge can go a long way.
+You do not need to know this information to effectively begin using *Wallace*. However, a little R knowledge can go a long way.
 
 * [Short introduction to R/RStudio](https://mlammens.github.io/Wallace-NAISMA-2019/docs/Intro-to-RStudio.html)
 * [Even shorter introduction to R/RStudio](https://mlammens.github.io/Wallace-NAISMA-2019/docs/Crash-Course-R.html)

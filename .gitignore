@@ -4,3 +4,5 @@
 .Ruserdata
 index.md~
 *~
+.DS_Store
+*/.DS_Store

@@ -2,10 +2,8 @@
 title: "Crash Course in R"
 author: "Matthew E. Aiello-Lammens"
 output:
-  pdf_document: 
-    toc: yes
   html_document:
-    df_print: paged
+    toc: yes
 ---
 
 

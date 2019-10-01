@@ -32,3 +32,4 @@ You do not need to know this information to effectively begin using *Wallace*. H
 
 * [SDM Overview](https://mlammens.github.io/Wallace-NAISMA-2019/docs/SDM-Overview.pptx)
 * [SDMs for Invasvie Species and Wallace](https://mlammens.github.io/Wallace-NAISMA-2019/docs/Invasive-Species-SDMs.pptx)
+* Link to [Wallace How-to Vignette](https://wallaceecomod.github.io/vignettes/wallace_vignette.html)

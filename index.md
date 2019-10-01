@@ -31,3 +31,4 @@ You do not need to know this information to effectively begin using *Wallace*. H
 ## Species Distribution Modeling Slide Decks
 
 * [SDM Overview](https://mlammens.github.io/Wallace-NAISMA-2019/docs/SDM-Overview.pptx)
+* [SDMs for Invasvie Species and Wallace](https://mlammens.github.io/Wallace-NAISMA-2019/docs/Invasive-Species-SDMs.pptx)

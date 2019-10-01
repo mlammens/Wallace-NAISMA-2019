@@ -19,4 +19,11 @@ Distribution modeling is a mature tool for studying invasive species, but until 
 
 * **Date:** Tuesday, October 1, 2019
 * **Time:** 3:45 PM to 5:15 PM 
-* **Place:** Broadway 3 & 4
+* **Place:** Saratoga Hilton, Broadway 3 & 4
+
+## Background Materials
+
+You do not need to now this information to effectively begin using *Wallace*. However, a little R knowledge can go a long way.
+
+* [Short introduction to R/RStudio](https://mlammens.github.io/Wallace-NAISMA-2019/docs/Intro-to-RStudio.html)
+* [Even shorter introduction to R/RStudio](https://mlammens.github.io/Wallace-NAISMA-2019/docs/Crash-Course-R.html)
